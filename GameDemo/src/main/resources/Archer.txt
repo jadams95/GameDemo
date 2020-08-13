@@ -1,0 +1,5 @@
+champ_name: Karyn,
+basic_attack: 5,
+spell_attack: 20,
+heal_cast: 25,
+ranged_attack: 5
